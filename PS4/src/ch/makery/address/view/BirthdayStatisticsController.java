@@ -11,6 +11,7 @@ import javafx.fxml.FXML;
 import javafx.scene.chart.BarChart;
 import javafx.scene.chart.CategoryAxis;
 import javafx.scene.chart.XYChart;
+
 import ch.makery.address.model.Person;
 
 public class BirthdayStatisticsController {

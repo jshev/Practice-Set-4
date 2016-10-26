@@ -2,12 +2,12 @@ package ch.makery.address.view;
 
 import java.io.File;
 
+import ch.makery.address.MainApp;
+
 import javafx.fxml.FXML;
 import javafx.scene.control.Alert;
 import javafx.scene.control.Alert.AlertType;
 import javafx.stage.FileChooser;
-
-import ch.makery.address.controller.MainApp;
 
 public class RootLayoutController {
 	// controller for the root layout

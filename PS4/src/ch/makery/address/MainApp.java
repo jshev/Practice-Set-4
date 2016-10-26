@@ -1,4 +1,4 @@
-package ch.makery.address.controller;
+package ch.makery.address;
 
 import java.io.File;
 import java.io.IOException;
